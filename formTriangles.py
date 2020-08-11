@@ -24,6 +24,7 @@ Output
 
 '''
 
+# AUTHOR : SANTOSH D KOLUR
 
 from itertools import combinations
 n=int(input())
