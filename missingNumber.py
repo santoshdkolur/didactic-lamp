@@ -4,6 +4,7 @@ Assume you have 9 numbers between 1 to 10 and only one number is missing. Exampl
 Array may be unsorted
 
 '''
+# AUTHOR : SANTOSH D KOLUR
 
 n=[int(ele) for ele in input().split(' ')]
 d=n[1]-n[0]
