@@ -21,7 +21,7 @@ Anagrams!
 Output 1+2+3 =6 
 '''
 
-
+# AUTHOR : SANTOSH D KOLUR
 
 
 n=input().split(' ')
