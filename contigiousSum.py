@@ -8,6 +8,7 @@ Combination  : 4 -1 -2 1 5
 
 '''
 
+# AUTHOR : SANTOSH D KOLUR
 
 n=[int(ele) for ele in input().split(' ')]
 i=1
