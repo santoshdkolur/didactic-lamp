@@ -18,6 +18,8 @@ Max area = 4 * 4 ==> 16sq units
 The heights of the houses could be 3, 4, 1, 5, 2 or in any order.
 '''
 
+# AUTHOR : SANTOSH D KOLUR
+
 n=int(input())
 h=[int(ele) for ele in input().split(' ')]
 
