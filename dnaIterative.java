@@ -2,6 +2,7 @@
 Structure of DNA
 */
 
+// Author: Nisarg Devdhar
 import java.util.Scanner;
 
 public class dnaIterative {
