@@ -6,6 +6,9 @@ The array can contain duplicates and negative numbers as well.
 For example, the input [3, 4, -1, 1] should give 2. The input [1, 2, 0] should give 3.
 '''
 
+#AUTHOR : SANTOSH D KOLUR
+
+
 n=[int(ele) for ele in input().split(' ')]
 l=len(n)
 n=[ele for ele in n if ele>0]
