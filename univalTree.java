@@ -10,6 +10,8 @@
   / \
  1   1
  */
+
+//Author: Nisarg Devdhar
 public class univalTree {
 	static class Node{
 		int data;
