@@ -1,5 +1,6 @@
 /*
- * Anagram numbers
+ Anagram numbers
+ 
 Two numbers are said to be anagrams of each other. If the digits of one can be re-arranged to form the other number. In other words, two numbers are said to be anagrams of each other, if they contain exactly the same set of digits.
 For example, 121 and 211 are anagrams of each other
 5692, 9526
