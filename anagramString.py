@@ -1,3 +1,5 @@
+#HARD
+
 '''
  Anagrams are words or phrases you spell by rearranging the letters of another word or phrase. For instance, fans of the Harry Potter series know that Lord Voldemort’s full name is actually an anagram of his birth name, 
  and some people even play games challenging one another to make anagrams still relevant to the original term.  
