@@ -1,3 +1,5 @@
+//MEDIUM
+
 /*
  * Given two numbers you are required to check whether they are anagrams of each other or not in binary representation.
 
