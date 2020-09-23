@@ -1,3 +1,4 @@
+//MEDIUM
 /*
  Anagram numbers
  
