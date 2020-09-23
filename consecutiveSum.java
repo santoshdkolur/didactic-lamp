@@ -1,3 +1,5 @@
+//MEDIUM
+
 /*
  * How many ways can a sum of consecutive numbers be expressed to represent a number N
     For ex: Say N is 10, then we can get n by '1+2+3+4' and no other combination. Hence the output should be 1
