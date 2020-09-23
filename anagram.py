@@ -1,3 +1,4 @@
+#MEDIUM
 '''
 Anagram numbers
 Two numbers are said to be anagrams of each other. If the digits of one can be re-arranged to form the other number. In other words, two numbers are said to be anagrams of each other, if they contain exactly the same set of digits.
